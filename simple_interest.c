@@ -8,7 +8,7 @@ int main()
     printf("Enter the value of p ,r , t : ");
     scanf("%f %f %f",&p,&r,&t);
     
-    float simp_int=(p*r*t)/100;
-    printf("The simple interest calculated :  %f\n",  simp_int );
+    float simple_int=(p*r*t)/100;
+    printf("The simple interest calculated :  %f\n",  simple_int );
     return 0;       
 }
