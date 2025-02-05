@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
+    //Declaration of variables p,r,t
     float p,r,t;
 
     //principle amount, rate of interest, no. of years
