@@ -9,6 +9,6 @@ int main()
     scanf("%f %f %f",&p,&r,&t);
     
     float simple_int=(p*r*t)/100;
-    printf("The simple interest calculated :  %f\n",  simple_int );
+    printf("The simple interest calculated here :  %f\n",  simple_int );
     return 0;       
 }
