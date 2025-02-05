@@ -5,7 +5,7 @@ int main()
 
     //principle amount, rate of interest, no. of years
 
-    
+    //Inputting the values of p,r,t from the user
     printf("Enter the value of p ,r , t : ");
     scanf("%f %f %f",&p,&r,&t);
     
