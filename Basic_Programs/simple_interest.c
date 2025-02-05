@@ -7,7 +7,7 @@ int main()
     //principle amount, rate of interest, no. of years
 
     //Inputting the values of p,r,t from the user
-    printf("Enter the value of p ,r , t : ");
+    printf("Enter the value of p ,r , t : \n");
     scanf("%f %f %f",&p,&r,&t);
     
     //Declaring the variable Simple_int as float
