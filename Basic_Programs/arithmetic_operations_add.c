@@ -17,5 +17,10 @@ int main()
     int prod = a * b;
     printf("Product is ",prod);
 
+    float rem = a % b;
+    printf("Remainder is ",rem);
+
     
+
+
 }
