@@ -20,7 +20,9 @@ int main()
     float rem = a % b;
     printf("Remainder is ",rem);
 
-    
+    float quo = a/b;
+    printf("Quotient is ",quo);
+
 
 
 }
