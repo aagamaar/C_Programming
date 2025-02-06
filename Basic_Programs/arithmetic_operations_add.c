@@ -9,5 +9,13 @@ int main()
     scanf("%f",&b);
 
     int sum = a + b;
+    printf("Sum is ",sum);
+
+    int diff = a - b;
+    printf("Difference is ",diff);
+
+    int prod = a * b;
+    printf("Product is ",prod);
+
     
 }
