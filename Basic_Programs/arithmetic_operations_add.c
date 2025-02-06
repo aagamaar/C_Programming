@@ -2,26 +2,26 @@
 int main()
 {
     /*Inputting values from the user*/
-    float a,b,sum;
-    printf("Enter a :");
-    scanf("%f",&a);
-    printf("Enter b :");
-    scanf("%f",&b);
+    int a,b;
+    printf("Enter a :\n");
+    scanf("%d",&a);
+    printf("Enter b :\n");
+    scanf("%d",&b);
 
     int sum = a + b;
-    printf("Sum is ",sum);
+    printf("Sum is %d\n",sum);
 
     int diff = a - b;
-    printf("Difference is ",diff);
+    printf("Difference is %d\n",diff);
 
     int prod = a * b;
-    printf("Product is ",prod);
+    printf("Product is %d\n",prod);
 
     float rem = a % b;
-    printf("Remainder is ",rem);
+    printf("Remainder is %f\n",rem);
 
     float quo = a/b;
-    printf("Quotient is ",quo);
+    printf("Quotient is %f\n",quo);
 
     return 0;
 }
