@@ -23,6 +23,5 @@ int main()
     float quo = a/b;
     printf("Quotient is ",quo);
 
-
-
+    return 0;
 }
