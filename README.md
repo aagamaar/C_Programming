@@ -4,3 +4,4 @@ C programming language was developed in the year of 1972 by Dennis Ritchie at Be
 
 In the year of 1968, research was started by Dennis Ritchie on programming languages like BCPL, CPL. 
 
+The main aim of his research was to develop a new language to create an OS called UNIX'.
