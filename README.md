@@ -6,3 +6,4 @@ KEYWORDS: Reserved words having pre defined meaning in C. Cant be used as identi
 
 IDENTIFIERS: Names given to variables , functions and arrays. Begins with a letter (uppercase/lowercase) or an underscore , but not with a digit.
 
+CONSTANTS: Fixed values in C program. Values do not change during execution of the program.
