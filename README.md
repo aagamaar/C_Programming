@@ -13,3 +13,5 @@ Referred as the "mother of all programming languages" because it influenced many
 C programs are platform-independent i.e. code can be compiled and run on different systems with minimal modifications.
 
 Does not require heavy runtime environments or libraries, making it ideal for low-resource systems.
+
+Bridges the gap between low-level programming (closer to hardware and machine code) and high-level programming (closer to human-readable code).
