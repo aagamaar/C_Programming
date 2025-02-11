@@ -8,3 +8,8 @@ IDENTIFIERS: Names given to variables , functions and arrays. Begins with a lett
 Case-sensitive and cannot be keywords.
 
 CONSTANTS: Fixed values in C program. Values do not change during execution of the program.
+
+COMMENTS: Single line comments .
+//This is a single line comment in C.
+/*This is a multiline
+comment in C*/
