@@ -9,7 +9,16 @@ Case-sensitive and cannot be keywords.
 
 CONSTANTS: Fixed values in C program. Values do not change during execution of the program.
 
-COMMENTS: Single line comments .
+COMMENTS:
+
+Single line comments .
 //This is a single line comment in C.
-/(*)This is a multiline
-comment in C(*)/
+/(comment in C.
+
+/(asterisk)This is a multiline
+comment in C(asterisk)/
+
+DATA TYPES:
+PRIMARY:int,char,float,double
+USER DEFINED:enum, union,intersection
+DERIVED:arrays,pointers,functions
