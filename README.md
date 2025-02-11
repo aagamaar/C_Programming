@@ -11,5 +11,5 @@ CONSTANTS: Fixed values in C program. Values do not change during execution of t
 
 COMMENTS: Single line comments .
 //This is a single line comment in C.
-/*This is a multiline
-comment in C*/
+/(*)This is a multiline
+comment in C(*)/
