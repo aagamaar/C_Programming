@@ -10,3 +10,4 @@ The main aim of his research was to develop a new language to create an OS calle
 
 Referred as the "mother of all programming languages" because it influenced many modern programming languages like C++, Java, Python and Go.
 
+C programs are platform-independent i.e. code can be compiled and run on different systems with minimal modifications.
