@@ -8,3 +8,5 @@ In the year of 1968, research was started by Dennis Ritchie on programming langu
 
 The main aim of his research was to develop a new language to create an OS called UNIX'.
 
+Referred as the "mother of all programming languages" because it influenced many modern programming languages like C++, Java, Python and Go.
+
